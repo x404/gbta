@@ -11,7 +11,6 @@ body{
     font-optical-sizing: auto;
 }
 
-
 :root{
     --red-color-500: #BB3136;
     --bg-primary-color: #4D4E4D;
@@ -25,7 +24,6 @@ body{
 h1{
     font-weight: normal;
 }
-
 
 .w-50{
     width: 50%;
@@ -246,7 +244,6 @@ hr{
 /* =table list */
 .table{
     border: 0;
-    /* margin-top: 15px; */
     width: 100%;
 }
 
